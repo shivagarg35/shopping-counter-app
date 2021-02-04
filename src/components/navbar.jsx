@@ -12,7 +12,7 @@ class NavBar extends Component {
             <div className="container-fluid">
             <a className="navbar-brand" href="#">
                 <span className='badge badge-pill badge-secondary'>
-                    {totalCounters}
+                    Total items selected: {totalCounters}
                 </span>
             </a>
             </div>
